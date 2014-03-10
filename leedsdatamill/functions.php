@@ -67,7 +67,7 @@ function ip_wpcf7_mail_sent($wpcf7)
 /************* THUMBNAIL SIZE OPTIONS *************/
 
 // Thumbnail sizes
-add_image_size( 'wpbs-featured', 780, 300, true );
+add_image_size( 'wpbs-featured', 1100, 423, true );
 add_image_size( 'wpbs-featured-home', 970, 311, true);
 add_image_size( 'wpbs-featured-carousel', 970, 400, true);
 
